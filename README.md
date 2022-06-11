@@ -1,2 +1,2 @@
-# ybi---foundation-
+# ybi-foundation-
 All 10 projects
